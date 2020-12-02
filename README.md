@@ -1,2 +1,4 @@
 # 1600-Tutorial
-Final project tutorial for IT 1600
+**#Understanding the Open Systems Interconnection model**
+
+by Felix Wang
