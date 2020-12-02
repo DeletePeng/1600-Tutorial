@@ -1,4 +1,3 @@
-# 1600-Tutorial
 # Understanding the Open Systems Interconnection model
-
+# 1600-Tutorial
 ## by Felix Wang
