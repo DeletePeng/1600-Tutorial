@@ -5,4 +5,4 @@ Layer 2 is what you would call the "Data Link Layer." The most important aspect 
 
 [Back to Layer 1](Layer1.md)
 
-[Homel](Readme.md)
+[Home](Readme.md)
