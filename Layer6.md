@@ -8,4 +8,4 @@ The primary purpose of the presentation layer is the layer which defines the way
 
 [Back to Layer 6](Layer6.md)
 
-[Home][(README.md)]
+[Home](README.md)
