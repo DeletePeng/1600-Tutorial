@@ -5,8 +5,8 @@ The physical layer is exactly what you think it is. It is the actual physical tr
 ![Physical Layer Shown](https://www.lifewire.com/thmb/fMTgZXa9S4IQkQmpebezKmh_BdM=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/layers-of-the-osi-model-illustrated-818017-finalv1-2-ct-ed94d33e885a41748071ca15289605c9.png)
 
 
-## An example of hardware for the Physical Layer
-![Physical Layer Shown](https://images-na.ssl-images-amazon.com/images/I/51lp6Y7y1ML._AC_SL1358_.jpg)
+## An example of hardware for the Physical Layer: A Hub
+![Physical Layer Shown](https://images-na.ssl-images-amazon.com/images/I/41pUdet4eLL._AC_SX425_.jpg)
 
 [Layer 2](Layer2.md)
 
