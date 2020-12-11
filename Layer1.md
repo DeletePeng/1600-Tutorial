@@ -4,4 +4,6 @@ The physical layer is exactly what you think it is. It is the actual physical tr
 
 ![Physical Layer Shown](https://www.lifewire.com/thmb/fMTgZXa9S4IQkQmpebezKmh_BdM=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/layers-of-the-osi-model-illustrated-818017-finalv1-2-ct-ed94d33e885a41748071ca15289605c9.png)
 [Layer 2](Layer2.md)
+
+
 [Back Home](README.md)
