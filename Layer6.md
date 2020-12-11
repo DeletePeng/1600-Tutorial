@@ -4,8 +4,9 @@ The primary purpose of the presentation layer is the layer which defines the way
 
 
 ![Presentation Layer](https://networkencyclopedia.com/wp-content/uploads/2019/10/presentation-layer-osi-model.jpg)
-
-
+## An example of the Presentation Layer is the use of the ASCII Table to represent symbols.
+![Presentation Layer](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/875px-ASCII-Table-wide.svg.png
+)
 
 [Layer 7](Layer7.md)
 
