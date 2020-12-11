@@ -4,6 +4,9 @@ The transport layer takes the data and segments it, as well as managing the flow
 
 ![Transport Layer](https://lh3.googleusercontent.com/proxy/wvUFOnZ-HkYEaj1R6xiTGqFYdL2_UFxr7Du_5MH6_FV-ZPK7AXeBPDLkgVDEcgWrBJRYza5tYJEHxcdkr5JDLeCYz-X7SkSeNZVZpEBExA)
 
+## A Gateway, an example of Transport Layer Hardware
+![Transport Layer](https://cdn.antratek.nl/media/product/a2b/lps8-indoor-lorawan-gateway-lps8-868-fe5.jpg)
+
 
 
 [On to Layer 5](Layer5.md)
